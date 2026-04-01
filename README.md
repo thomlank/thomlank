@@ -15,5 +15,6 @@ My contributions included:
 - Building models, serializers, and views for Users, Events, and Profiles
 - Implementing user authentication
 - Developing key UI components, including the Sidebar, Event Carousel, Countdown Timer, and Ticket Display
-- Creating and applying the site-wide visual theme, including color palettes, visual effects, and particle systems  
+- Creating and applying the site-wide visual theme, including color palettes, visual effects, and particle systems
+
 [View Repo](https://github.com/oramirez2025/personal-project-falcon)
