@@ -6,6 +6,7 @@ Air Force veteran turned full-stack developer, building practical web applicatio
 
 ### QuikTik
 [View Repo](https://github.com/thomlank/QuikTik)
+
 An internal issue ticket tracker with dashboard for internal ticket creation, tracking, assignment, and management.  
 Tech Stack:
 - Python
@@ -14,6 +15,7 @@ Tech Stack:
 
 ### FalconForgedFantasy V2
 [View Repo](https://github.com/thomlank/personal-project-falcon)
+
 Collaborative full-stack event platform with ticket purchasing event management, and community features.
 Tech Stack:
 - Python
