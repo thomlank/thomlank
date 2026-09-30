@@ -19,6 +19,7 @@ Tech Stack:
 - React.js
 - Django
 - ChakraUI
+  
 My contributions included:
 - Debugging and resolving application issues across the frontend and backend
 - Building models, serializers, and views for Users, Events, and Profiles
